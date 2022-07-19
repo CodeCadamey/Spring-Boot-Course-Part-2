@@ -1,0 +1,12 @@
+
+
+Question 1.1
+    - as we discussed in the latest course, you'll continue and complete the Service Methods of "Buyer" Entity.
+    - create a Dao interface and Service Class for "Seller" Entity just like we did for "Buyer" Entity.
+
+Question 1.2
+    - what is Field Injection and reason why It's not recommended to use.
+    - what's are @RequiredArgsConstructor, @NoArgsConstructor and @AllArgsConstructor. Does these annotations supports
+      dependency injection?
+    - what is EndPoint and It's purpose.
+    - what is REST and Restfull approach?
